@@ -16,6 +16,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
 </p>
 
+### 🧠 Technical Skills
+
+| Skill | Level |
+|-------|--------|
+| 🟧 **HTML** | ![95%](https://progress-bar.dev/95/?title=Expert&width=250) |
+| 🟦 **CSS** | ![90%](https://progress-bar.dev/90/?title=Advanced&width=250) |
+| 🟨 **JavaScript** | ![80%](https://progress-bar.dev/80/?title=Intermediate&width=250) |
+| ⚛️ **React** | ![75%](https://progress-bar.dev/75/?title=Good&width=250) |
+| 💨 **Tailwind CSS** | ![85%](https://progress-bar.dev/85/?title=Pro&width=250) |
+| ⬛ **Next.js** | ![70%](https://progress-bar.dev/70/?title=Learning&width=250) |
+
 ---
 
 ### 🌐 Connect With Me  
