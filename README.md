@@ -19,17 +19,17 @@
 ### 🛠️ My Skills  
 
 **HTML**  
-<div style="background-color:#ddd; border-radius:10px; width:100%; height:15px;">
+<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
   <div style="background-color:#E44D26; width:95%; height:15px; border-radius:10px;"></div>
 </div>
 
 **CSS**  
-<div style="background-color:#ddd; border-radius:10px; width:100%; height:15px;">
+<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
   <div style="background-color:#264de4; width:90%; height:15px; border-radius:10px;"></div>
 </div>
 
 **JavaScript**  
-<div style="background-color:#ddd; border-radius:10px; width:100%; height:15px;">
+<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
   <div style="background-color:#f7df1e; width:80%; height:15px; border-radius:10px;"></div>
 </div>
 
@@ -39,12 +39,12 @@
 </div>
 
 **Tailwind CSS**  
-<div style="background-color:#ddd; border-radius:10px; width:100%; height:15px;">
+<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
   <div style="background-color:#38BDF8; width:85%; height:15px; border-radius:10px;"></div>
 </div>
 
 **Next.js**  
-<div style="background-color:#ddd; border-radius:10px; width:100%; height:15px;">
+<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
   <div style="background-color:#000000; width:70%; height:15px; border-radius:10px;"></div>
 </div>
 
