@@ -16,37 +16,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
 </p>
 
-### 🛠️ My Skills  
+### ⚙️ My Tech Stack
 
-**HTML**  
-<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
-  <div style="background-color:#E44D26; width:95%; height:15px; border-radius:10px;"></div>
-</div>
-
-**CSS**  
-<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
-  <div style="background-color:#264de4; width:90%; height:15px; border-radius:10px;"></div>
-</div>
-
-**JavaScript**  
-<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
-  <div style="background-color:#f7df1e; width:80%; height:15px; border-radius:10px;"></div>
-</div>
-
-**React**  
-<div style="background-color:#ddd; border-radius:10px; width:100%; height:15px;">
-  <div style="background-color:#61DBFB; width:75%; height:15px; border-radius:10px;"></div>
-</div>
-
-**Tailwind CSS**  
-<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
-  <div style="background-color:#38BDF8; width:85%; height:15px; border-radius:10px;"></div>
-</div>
-
-**Next.js**  
-<div style="background-color:#fff; border-radius:10px; width:100%; height:15px;">
-  <div style="background-color:#000000; width:70%; height:15px; border-radius:10px;"></div>
-</div>
+| Icon | Skill | Level |
+|------|--------|--------|
+| <img src="https://skillicons.dev/icons?i=html" width="30"/> | HTML | ![95%](https://progress-bar.dev/95/?title=Expert&width=150) |
+| <img src="https://skillicons.dev/icons?i=css" width="30"/> | CSS | ![90%](https://progress-bar.dev/90/?title=Advanced&width=150) |
+| <img src="https://skillicons.dev/icons?i=js" width="30"/> | JavaScript | ![80%](https://progress-bar.dev/80/?title=Intermediate&width=150) |
+| <img src="https://skillicons.dev/icons?i=react" width="30"/> | React | ![75%](https://progress-bar.dev/75/?title=Good&width=150) |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> | Tailwind CSS | ![85%](https://progress-bar.dev/85/?title=Pro&width=150) |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="30"/> | Next.js | ![70%](https://progress-bar.dev/70/?title=Learning&width=150) |
 
 
 ---
