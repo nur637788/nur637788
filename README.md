@@ -13,19 +13,20 @@
 
 ### 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,netlify,vscode" />
 </p>
 
 ### ⚙️ My Tech Stack
 
 | Icon | Skill | Level |
 |------|--------|--------|
-| <img src="https://skillicons.dev/icons?i=html" width="30"/> | HTML | ![95%](https://progress-bar.dev/95/?title=Expert&width=150) |
-| <img src="https://skillicons.dev/icons?i=css" width="30"/> | CSS | ![90%](https://progress-bar.dev/90/?title=Advanced&width=150) |
-| <img src="https://skillicons.dev/icons?i=js" width="30"/> | JavaScript | ![80%](https://progress-bar.dev/80/?title=Intermediate&width=150) |
-| <img src="https://skillicons.dev/icons?i=react" width="30"/> | React | ![75%](https://progress-bar.dev/75/?title=Good&width=150) |
-| <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> | Tailwind CSS | ![85%](https://progress-bar.dev/85/?title=Pro&width=150) |
-| <img src="https://skillicons.dev/icons?i=nextjs" width="30"/> | Next.js | ![70%](https://progress-bar.dev/70/?title=Learning&width=150) |
+| <img src="https://skillicons.dev/icons?i=html" width="30"/> | **HTML** | ![HTML](https://img.shields.io/badge/Expert-95%25-orange?style=for-the-badge) |
+| <img src="https://skillicons.dev/icons?i=css" width="30"/> | **CSS** | ![CSS](https://img.shields.io/badge/Advanced-90%25-blue?style=for-the-badge) |
+| <img src="https://skillicons.dev/icons?i=js" width="30"/> | **JavaScript** | ![JS](https://img.shields.io/badge/Intermediate-80%25-yellow?style=for-the-badge) |
+| <img src="https://skillicons.dev/icons?i=react" width="30"/> | **React** | ![React](https://img.shields.io/badge/Good-75%25-61DBFB?style=for-the-badge&logo=react&logoColor=white) |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> | **Tailwind CSS** | ![Tailwind](https://img.shields.io/badge/Pro-85%25-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="30"/> | **Next.js** | ![Next](https://img.shields.io/badge/Learning-70%25-black?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+
 
 
 ---
