@@ -48,8 +48,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nur637788&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=nur637788&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur637788&layout=compact&theme=radical" alt="Top Languages" />
