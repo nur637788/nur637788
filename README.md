@@ -52,8 +52,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=nur637788&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur637788&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
