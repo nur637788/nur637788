@@ -44,16 +44,15 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur637788&show_icons=true&theme=radical" alt="nur637788" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=nur637788&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=nur637788&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nur637788&theme=radical" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur637788&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=nur637788&layout=compact&theme=radical" />
 </p>
 
 ---
