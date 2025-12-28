@@ -43,11 +43,12 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nur637788&theme=radical&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nur637788&show_icons=true&theme=radical&hide_border=true" />
 </p>
+
 
 
 
@@ -59,7 +60,7 @@
   <a href="https://github.com/nur637788" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://nurdev.netlify.app/" target="_blank">
+  <a href="https://nurdev.netlify.app/getStart" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff1493?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://facebook.com/nur637788" target="_blank">
