@@ -28,11 +28,19 @@
 
 <div align="center">
 
+## 📊 GitHub Stats  
+
+<div align="center">
+
 ### 📈 Overall Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=nur637788&show_icons=true&theme=radical&hide_border=true" height="165"/>
 
+<br/>
+
 ### 🔥 Contribution Streak  
 <img src="https://streak-stats.demolab.com?user=nur637788&theme=radical&hide_border=true" height="165"/>
+
+<br/>
 
 ### 🧠 Most Used Languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur637788&layout=compact&theme=radical&hide_border=true"/>
@@ -46,6 +54,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nur637788&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
