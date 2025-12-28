@@ -28,24 +28,18 @@
 
 <div align="center">
 
-## 📊 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=nur637788&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 
-<div align="center">
+<br/><br/>
 
-### 📈 Overall Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=nur637788&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=nur637788&theme=radical&hide_border=true&cache_seconds=1800" />
 
-<br/>
+<br/><br/>
 
-### 🔥 Contribution Streak  
-<img src="https://streak-stats.demolab.com?user=nur637788&theme=radical&hide_border=true" height="165"/>
-
-<br/>
-
-### 🧠 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur637788&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur637788&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 
 </div>
+
 
 ---
 
